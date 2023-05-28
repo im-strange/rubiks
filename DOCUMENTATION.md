@@ -71,10 +71,10 @@ Therefore, we can represent the array above as:
 ### Attributes
 
 The class also has few attributes that may be useful in simulating the cube.
-- `cube_array`: contains 3-dimensional array of the cube
+- `cube_array`: contains 4-dimensional array of the cube with the shape of (6, 3, 3, 3)
 - `scramble_notations`: string of the scramble used in `scramble` method
 
-### Accessing the class
+### Demo
 
 The class can be accessed in such way
 
@@ -101,3 +101,7 @@ OOO GGG RRR BBB
     YYY
     YYY
 ```
+
+<br>
+
+> Feel free to suggest features and improvements.
