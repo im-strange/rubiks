@@ -23,6 +23,6 @@ pip install git+https://github.com/im-strange/rubiks.git
   <img src="https://img.shields.io/badge/-Documentation-blue?style=for-the-badge">
 </a>
 
-<br>
+<br><br>
 
 > Use this repository's content only for legal and ethical purposes. I do not support any illegal actions.
