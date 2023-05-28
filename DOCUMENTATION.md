@@ -1,3 +1,9 @@
+# Getting started
+
+We can represent the array of the cube like this:
+
+<img src="assets/rubiks_cube.jpg">
+
 # `Cube` class from main module
 
 ### Methods
